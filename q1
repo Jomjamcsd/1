@@ -1,0 +1,9 @@
+using System;
+public class Program {
+    public static void Main (string[] arg) {
+        KFC mykfc = new KFC();
+        myKFC.brand = "สาขาบางขุนเทียน ชายทะเล ";
+
+        PrintCarInformation(my KFC);
+    }
+    
